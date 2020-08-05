@@ -16,7 +16,8 @@ My Github Stats:
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=mrityagi&count_private=true&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=mrityagi&count_private=true&show_icons=true&theme=radical&line_height=33">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mrityagi&hide=html&theme=tokyonight">
 </p>
 
 
@@ -28,8 +29,8 @@ My Github Stats:
 
 ```text
 🌞 Morning    31 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.4% 
-🌆 Daytime    49 commits    ███████░░░░░░░░░░░░░░░░░░   30.02% 
-🌃 Evening    63 commits    █████████░░░░░░░░░░░░░░░░   38.34% 
+🌆 Daytime    49 commits     ███████░░░░░░░░░░░░░░░░░░   30.02% 
+🌃 Evening    63 commits     █████████░░░░░░░░░░░░░░░░   38.34% 
 🌙 Night      18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.24%
 
 ```
