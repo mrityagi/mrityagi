@@ -8,7 +8,7 @@ I am a developer who is passionate about stuff like Android Development , Cross 
 - 🌐 Visit my [porfolio website](https://mrityagi.github.io/portfolio/) for complete background and contact.
 
 To connect with me,
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/mrinal-tyagi-a8bb61179) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/mrityagi) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100006664187718&ref=bookmarks) [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://mrityagi.github.io/portfolio/) !
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/mrinal-tyagi-a8bb61179) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/mrityagi) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100006664187718&ref=bookmarks) [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://mrityagi.github.io/portfolio/) ![Visits Badge](https://badges.pufler.dev/visits/mrityagi/mrityagi?style=for-the-badge ) 
 
 ---
 My Github Stats: 
@@ -16,8 +16,7 @@ My Github Stats:
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=mrityagi&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mrityagi&hide=css,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=mrityagi&count_private=true&show_icons=true&theme=radical&line_height=27">
 </p>
 
 
@@ -28,22 +27,10 @@ My Github Stats:
 **I'm a night 🦉** 
 
 ```text
-🌞 Morning    84 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.4% 
-🌆 Daytime    130 commits    ███████░░░░░░░░░░░░░░░░░░   30.02% 
-🌃 Evening    166 commits    █████████░░░░░░░░░░░░░░░░   38.34% 
-🌙 Night      53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.24%
-
-```
-📅 **I'm Most Productive on Saturdays** 
-
-```text
-Monday       54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.47% 
-Tuesday      60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.86% 
-Wednesday    37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.55% 
-Thursday     64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.78% 
-Friday       59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.63% 
-Saturday     85 commits     █████░░░░░░░░░░░░░░░░░░░░   19.63% 
-Sunday       74 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.09%
+🌞 Morning    31 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.4% 
+🌆 Daytime    49 commits    ███████░░░░░░░░░░░░░░░░░░   30.02% 
+🌃 Evening    63 commits    █████████░░░░░░░░░░░░░░░░   38.34% 
+🌙 Night      18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.24%
 
 ```
 
