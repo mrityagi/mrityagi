@@ -2,9 +2,9 @@
 I am a developer who is passionate about stuff like Android Development , Cross Platform App Dev and Data science. Few tech that I enjoy working in, are Python, C++, Dart, Javascript, and  Firebase. I play football and design in photoshop.
 
 - 👨🏽‍💻 Currently working on Product development via Android dev, competitive coding, data structures and algorithms.
-- 🤝 Open for collaborations in deep learning, analytics and data science.
+- 🤝 Open for collaborations in deep learning, analytics , app/web Dev and data science.
 - 😊 Willing to contribute in opensource projects.
-- 👍 Looking for opportunities to join as an intern/full time candidate in machine learning/deep learning research teams.
+- 👍 SAAS , BAAS  is the future of Internet i think , what do you say ?
 - 🌐 Visit my [porfolio website](https://mrityagi.github.io/portfolio/) for complete background and contact.
 
 To connect with me,
