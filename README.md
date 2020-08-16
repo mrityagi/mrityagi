@@ -27,19 +27,19 @@ My Github Stats:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-79-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 191 Contributions in year 2020
+> 🏆 191 Contributions in the year 2020
  > 
-> 📦 Used 253.3 kB in GitHub's Storage 
+> 📦 253.3 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 15 Public Repositories 
+> 📜 15 Public repositories
  > 
-> 🔑 0 Owned Private Repository 
+> 🔑 0 Private repository 
  > 
-**I'm an early 🐤** 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning    3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.05% 
@@ -48,7 +48,7 @@ My Github Stats:
 🌙 Night      12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.22%
 
 ```
-📅 **I'm Most Productive on Fridays** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
 Monday       16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.96% 
@@ -62,17 +62,17 @@ Sunday       25 commits     ████░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: Asia/Kolkata
+⌚︎ Time zone: Asia/Kolkata
 
-💬 Languages: 
+💬 Programming Languages: 
 C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
-**I mostly code in Dart** 
+**I Mostly Code in Dart** 
 
 ```text
 Dart                     3 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
