@@ -25,19 +25,19 @@ My Github Stats:
 <summary> My programming Stats: </summary>
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-57-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 191 Contributions in the year 2020
+> 🏆 191 Contributions in the Year 2020
  > 
 > 📦 253.3 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 15 Public repositories
+> 📜 15 Public Repositories
  > 
-> 🔑 0 Private repository 
+> 🔑 0 Private Repository 
  > 
 **I'm an Early 🐤** 
 
@@ -62,10 +62,10 @@ Sunday       25 commits     ████░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spend My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time zone: Asia/Kolkata
+⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
 C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
