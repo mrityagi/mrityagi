@@ -17,7 +17,7 @@ My Github Stats:
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=mrityagi&count_private=true&show_icons=true&theme=radical&line_height=33">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mrityagi&count_private=true&hide=html,makefile&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mrityagi&langs_count=4&count_private=true&theme=tokyonight">
 </p>
 
 
