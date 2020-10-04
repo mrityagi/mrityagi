@@ -3,6 +3,7 @@ I am a developer who is passionate about stuff like Android Development , Cross 
 
 - 👨🏽‍💻 Currently working on Product development via Android dev, data structures and algorithms.
 - 😊 Willing to contribute in opensource projects.
+- Firebase , AWS is lub ..
 - 👍 SAAS , BAAS  is the future of Internet i think , what do you say ?
 - 🌐 Visit my [porfolio website](https://mrityagi.github.io/portfolio/) for complete background and contact.
 
