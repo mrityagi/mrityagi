@@ -25,7 +25,7 @@ My Github Stats:
 <summary> My programming Stats: </summary>
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My Github Data** 
 
@@ -35,9 +35,9 @@ My Github Stats:
  > 
 > 💼 Opted to Hire
  > 
-> 📜 21 Public Repositories
+> 📜 21 Public Repositories 
  > 
-> 🔑 0 Private Repository 
+21 Private Repository 
  > 
 **I'm an Early 🐤** 
 
