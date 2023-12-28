@@ -2,10 +2,7 @@
 I am a developer who is passionate about stuff like Android Development , Cross Platform App Dev and Data science. Few tech that I enjoy working in, are Python, C++, Dart, Javascript, and  Firebase. I play football and design in photoshop.
 
 - 👨🏽‍💻 Currently working on Product development via Android dev, data structures and algorithms.
-- 😊 Willing to contribute in opensource projects.
-- Firebase , AWS is lub ..
 - 👍 SAAS , BAAS  is the future of Internet i think , what do you say ?
-- 🌐 Visit my [porfolio website](https://mrityagi.github.io/portfolio/) for complete background and contact.
 
 To connect with me,
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/mrinal-tyagi-a8bb61179) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/mrityagi) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100006664187718&ref=bookmarks) [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://mrityagi.github.io/portfolio/) ![Visits Badge](https://badges.pufler.dev/visits/mrityagi/mrityagi?style=for-the-badge ) 
